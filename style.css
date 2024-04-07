@@ -1,0 +1,73 @@
+/* Reset some default styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+input[type="file"] {
+    display: none;
+  }
+  
+  .custom-file-upload {
+    border: 1px solid #ccc;
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    background-color: #A9B388;
+    color: #333;
+    border-radius: 4px;
+  }
+  
+  .custom-file-upload:hover {
+    background-color: #A9B388;
+  }
+
+.container {
+    color: #F8FAE5;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+h1 {
+    color: #F8FAE5;
+    text-align: center;
+}
+
+#particles-js {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+/* Adjustments for the video and canvases */
+#myVideo, canvas {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #F8FAE5;
+}
+
+
+/* Adjustments for the input range and button */
+input[type="range"] {
+    width: 70%;
+    margin-right: 10px;
+}
+
+#myButton {
+    background-color: #A9B388;
+    margin-top: 10px;
+}
+
+/* Adjustments for the footer */
+footer {
+    margin-top: 20px;
+    text-align: center;
+}
