@@ -1,3 +1,3 @@
 # CanvasVideoProcessing
 
-> Visit Site: https://draculeddemon.github.io/Test_video_edge_detection-/
+> Visit Site: https://dinhvietdanh.github.io/video-edge-detect/
